@@ -9,7 +9,7 @@ The project aims to develop a framework for improving the efficacy of model trai
 
 2. Hyperparameter Tuning (optimization.py): search the optimal values for the chosen, influential hypaparameters. In our case, we identified three out of nine hyperparameters as influential hyperparameters.
 
-As a result, we obtain an optimized XGBoost alogrithm that allows the data-driven models to be more efficiently and effectively to predict target system behaviors.
+As a result, we obtain an optimized XGBoost alogrithm that allows the data-driven model to be more efficiently and effectively to predict target system behaviors.
 
   
   
